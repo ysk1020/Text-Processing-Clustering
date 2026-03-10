@@ -1,4 +1,3 @@
-```markdown
 # Text Clustering Analysis
 
 This notebook performs text clustering analysis on a given dataset. It covers data loading, text preprocessing, feature extraction using various techniques, clustering with K-means and Agglomerative Clustering, and evaluation of the clustering results.
@@ -79,4 +78,3 @@ Based on the last run, the following table summarizes the clustering performance
 ### Plot
 
 The results are visualized using a `catplot` showing the ARI and NMI scores across different preprocessing, representation, and algorithm combinations.
-```
